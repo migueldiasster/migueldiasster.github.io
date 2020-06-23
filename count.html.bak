@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=windows-1252">
+    <!-- /.website title -->
+    <title>Lineage 2 Era of Heroes</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <link rel="shortcut icon" href="images/favicon.ico">
+    <!-- CSS Files -->
+    <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
+    <link href="css/font-awesome.min.css" rel="stylesheet">
+    <link href="css/animate.css" rel="stylesheet" media="screen">
+    <link href="css/custom.css" rel="stylesheet" media="screen">
+    <!-- Google Fonts -->
+    <link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,400,300,600,700"
+
+      rel="stylesheet" type="text/css">
+  </head>
+  <body>
+    <!-- /.preloader -->
+    <div id="preloader"></div>
+    <div id="top"></div>
+    <!-- /.parallax full screen background image -->
+    <div class="fullscreen landing parallax text-center" style="background-image:url('images/background.jpg');"
+
+      data-img-width="2000" data-img-height="1333" data-diff="100">
+      <div class="overlay">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-12">
+              <!-- /.logo -->
+              <div class="logo wow fadeInDown"> <a href="./index.html"></a></div>
+              <!-- /.main title -->
+              <img src="images/logo.png" width="202" height="73" alt=""/>
+              <h1> Opening on.. </h1>
+              <!-- /.count down timer -->
+<ul class="countdown">
+            <li>
+                  <div class="numb wow fadeInUp"> <span class="days">00</span>
+                    <p class="days_ref">days</p>
+                  </div>
+                </li>
+                <li>
+                  <div class="numb wow fadeInUp"> <span class="hours">00</span>
+                    <p class="hours_ref">hours</p>
+                  </div>
+                </li>
+                <li>
+                  <div class="numb wow fadeInUp"> <span class="minutes">00</span>
+                    <p class="minutes_ref">minutes</p>
+                  </div>
+                </li>
+                <li>
+                  <div class="numb wow fadeInUp"> <span class="seconds">00</span>
+                    <p class="seconds_ref">seconds</p>
+                  </div>
+                </li>
+              </ul>
+              <!-- /.header paragraph -->
+              <div class="working">
+                <p>We are working on server. <br>
+                  Subscribe to get notified when we launch!</p>
+              </div>
+              <!-- /.header menu -->
+              <div class="more wow fadeInLeft"> <a href="#feature" class="btn option"><i
+
+                    class="fa fa-star"></i>Features</a> <a href="#subscribe" class="btn option"><i
+
+                    class="fa fa-send"></i>Subscribe</a> </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- /.feature section -->
+    <div id="feature">
+      <div class="container">
+        <div class="row">
+          <!-- /.feature list -->
+          <div class="col-md-6 wow slideInLeft">
+            <h1>Server <span class="highlight">Rates</span></h1>
+            <ul class="feature">
+              <!-- /.feature 1 -->
+              <li>
+                <div class="row">
+                  <div class="col-xs-4 col-sm-2 text-center"> <i class="fa fa-star"></i>
+                  </div>
+                  <div class="col-xs-8 col-sm-10">
+                    <h4><a href="#feature">Rates</a></h4>
+                    <p><b>XP:</b> 50x</p>
+                    <p><b>SP:</b> 50x</p>
+                    <p><b>Spoil:</b> 5x</p>
+                    <p><b>Adena:</b> 10x</p>
+                    <p><b>Quest Items:</b> 3x</p>
+                  </div>
+                </div>
+              </li>
+              <!-- /.feature 2 -->
+              <li>
+                <div class="row">
+                  <div class="col-xs-4 col-sm-2 text-center"> <i class="fa fa-star"></i>
+                  </div>
+                  <div class="col-xs-8 col-sm-10">
+                    <h4><a href="#feature">Enchants</a></h4>
+                    <p><b>Maximum Weapon:</b> +16</p>
+                    <p><b>Maximum Armor:</b> +16</p>
+                    <p><b>Maximum Jewel:</b> +16</p>
+                    <p><b>Normal Scroll:</b> 65%</p>
+                    <p><b>Blessed Scroll:</b> 85%</p>
+                  </div>
+                </div>
+              </li>
+              <!-- /.feature 3 -->
+              <li>
+                <div class="row">
+                  <div class="col-xs-4 col-sm-2 text-center"> <i class="fa fa-star"></i>
+                  </div>
+                  <div class="col-xs-8 col-sm-10">
+                    <h4><a href="#feature">Events</a></h4>
+                    <p>Team VS Team</p>
+                    <p>Capture The Flag</p>
+                  </div>
+                </div>
+              </li>
+            </ul>
+          </div>
+          <!-- /.feature list -->
+          <div class="col-md-6 wow slideInRight">
+            <h1>Server <span class="highlight">Features</span></h1>
+            <ul class="feature">
+              <!-- /.feature 1 -->
+              <li>
+                <div class="row">
+                  <div class="col-xs-4 col-sm-2 text-center"> <i class="fa fa-bolt"></i>
+                  </div>
+                  <div class="col-xs-8 col-sm-10">
+                    <h4><a href="#feature">Weapons</a></h4>
+                    <p>No-Grade</p>
+                    <p>Grade D</p>
+                    <p>Grade C</p>
+                    <p>Grade B</p>
+                    <p>Grade A</p>
+                    <p>Grade S</p>
+                  </div>
+                </div>
+              </li>
+              <!-- /.feature 2 -->
+              <li>
+                <div class="row">
+                  <div class="col-xs-4 col-sm-2 text-center"> <i class="fa fa-shield"></i>
+                  </div>
+                  <div class="col-xs-8 col-sm-10">
+                    <h4><a href="#feature">Armors</a></h4>
+                    <p>No-Grade</p>
+                    <p>Grade D</p>
+                    <p>Grade C</p>
+                    <p>Grade B</p>
+                    <p>Grade A</p>
+                    <p>Grade S</p>
+                  </div>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- /.subscribe section -->
+    <div id="subscribe">
+      <div class="container">
+        <!-- /.mail icon -->
+        <div class="col-md-4 col-md-offset-4 text-center"> <i class="fa fa-envelope letter wow fadeInUp"></i>
+        </div>
+        <!-- /.subscribe form -->
+        <div class="col-md-8 col-md-offset-2">
+          <div class="subscribe-form wow fadeInUp">
+            <h4>We will only notify you when near the server launch, we hate
+              spam!</h4>
+            <form class="news-letter" action="#" method="post"> <input class="form-control"
+
+                name="news_later_email" placeholder="Enter your email..." required=""
+
+                type="email"> <button type="submit" class="subscribe-btn btn"><i
+
+                  class="fa fa-send"></i></button> </form>
+          </div>
+          <!-- /.download button -->
+          <div class="download-section text-center wow fadeInUp"> <a href="#" class="btn download"><i
+
+                class="fa fa-cloud-download"></i>Download Patch</a> </div>
+        </div>
+      </div>
+    </div>
+    <!-- /.footer -->
+    <footer id="footer">
+      <div class="container">
+        <div class="col-sm-4 col-sm-offset-4 text-center"> <a href="#top"><i class="fa fa-arrow-up scroll-top text-center"></i></a>
+          <br>
+          Copyright © 2020. All rights reserved. | <a href="./index.html"
+
+            target="_blank">Home</a> </div>
+      </div>
+    </footer>
+    <!-- /.javascript files -->
+    <script src="js/jquery.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery.downCount.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAqJ08ftKoeJo_IuXwTlRozICJNtNczM-M"></script>
+    <script src="js/wow.min.js"></script>
+    <script src="js/custom.js"></script>
+    <script type="text/javascript">
+
+        </script>
+  </body>
+</html>
